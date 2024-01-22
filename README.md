@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React.js, Next.js, node.js, Typescript, Express.js, Javascript**
 
-- 📫 How to reach me **www.softlinux575@gmail.com**
+- 📫 How to reach me **pankajbisht4593@gmail.com**
 
 - 📄 Know about my experiences [7+ years experience as a full stack professional](7+ years experience as a full stack professional)
 
